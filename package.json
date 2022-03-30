@@ -3,6 +3,11 @@
     "displayName": "Markdown Ext Pack",
     "description": "An extension pack suitable when interacting with Markdown",
     "version": "0.0.2",
+    "publisher": "ndagistanley",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/NdagiStanley/markdown-ext-pack"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },
