@@ -1,0 +1,20 @@
+{
+    "name": "markdown-ext-pack",
+    "displayName": "Markdown Ext Pack",
+    "description": "An extension pack suitable when interacting with Markdown",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "DavidAnson.vscode-markdownlint", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "Gruntfuggly.align-mode", 
+        "mrmlnc.vscode-duplicate", 
+        "yzhang.markdown-all-in-one"
+    ]
+}
