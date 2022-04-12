@@ -2,7 +2,7 @@
     "name": "markdown-ext-pack",
     "displayName": "Markdown Ext Pack",
     "description": "An extension pack suitable when interacting with Markdown",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "ndagistanley",
     "repository": {
       "type": "git",
@@ -14,12 +14,18 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "images/icon.png",
     "extensionPack": [
+        "bierner.github-markdown-preview",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-yaml-preamble",
         "DavidAnson.vscode-markdownlint",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
-        "Gruntfuggly.align-mode",
-        "mrmlnc.vscode-duplicate",
+        "gruntfuggly.align-mode",
         "yzhang.markdown-all-in-one"
     ]
 }
