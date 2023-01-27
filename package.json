@@ -16,6 +16,7 @@
     ],
     "icon": "images/icon.png",
     "extensionPack": [
+        "asciidoctor.asciidoctor-vscode",
         "bierner.github-markdown-preview",
         "bierner.markdown-checkbox",
         "bierner.markdown-emoji",
