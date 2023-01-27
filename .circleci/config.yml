@@ -17,3 +17,5 @@ workflows:
               only: /^v.*/
             branches:
               ignore: /.*/
+          context:
+            - VSCODE

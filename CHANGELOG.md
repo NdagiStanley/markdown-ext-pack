@@ -16,6 +16,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
+## [0.0.5] - 2023-01-27
+### Added
+- 1 extension
+- Extension manifest
+### Changed
+- CHANGELOG
+- CircleCI config
+
 ## [0.0.4] - 2022-04-12
 ### Added
 - 6 extension
@@ -45,6 +53,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extension pack w/ 6 extensions
 
 <!-- [Unreleased]: https://github.com/NdagiStanley/markdown-ext-pack/compare/v0.0.4...HEAD -->
+[0.0.5]: https://github.com/NdagiStanley/markdown-ext-pack/compare/v0.0.4...v0.0.5
 [0.0.4]: https://github.com/NdagiStanley/markdown-ext-pack/compare/v0.0.3...v0.0.4
 [0.0.3]: https://github.com/NdagiStanley/markdown-ext-pack/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/NdagiStanley/markdown-ext-pack/compare/v0.0.1...v0.0.2
