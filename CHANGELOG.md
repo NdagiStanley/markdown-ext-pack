@@ -16,6 +16,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
+## [0.0.6] - 2023-09-10
+### Added
+- 1 extension
+### Removed
+- 1 extension
+
 ## [0.0.5] - 2023-01-27
 ### Added
 - 1 extension

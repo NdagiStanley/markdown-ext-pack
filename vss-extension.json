@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "markdown-ext-pack",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "name": "Markdown Ext Pack",
     "publisher": "ndagistanley",
     "targets": [
